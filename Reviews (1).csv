@@ -1,0 +1,16 @@
+ReviewID,ProductID,UserID,Rating,ReviewText,ReviewDate,HelpfulCount,Status
+1,1,2,5,"Perfect for my university coding projects!",2026-01-15 10:00:00,15,Approved
+2,2,4,5,"Best iPhone ever, camera is amazing!",2026-01-15 10:00:00,22,Approved
+3,3,5,4,"Great noise canceling, worth the price",2026-01-15 10:00:00,18,Approved
+4,4,6,5,"Dell XPS is a beast for programming!",2026-01-15 10:00:00,12,Approved
+5,5,8,4,"Samsung S24 has amazing display quality",2026-01-15 10:00:00,9,Approved
+6,6,9,5,"iPad Pro is perfect for note taking",2026-01-15 10:00:00,14,Approved
+7,7,10,4,"JBL speaker sound is very loud and clear",2026-01-15 10:00:00,7,Approved
+8,8,11,3,"ThinkPad is good but a bit heavy",2026-01-15 10:00:00,5,Approved
+9,9,12,4,"OnePlus 12 has great battery life",2026-01-15 10:00:00,11,Approved
+10,10,13,5,"Canon R50 takes stunning photos!",2026-01-15 10:00:00,20,Approved
+11,11,14,5,"PS5 controller feels amazing in hand",2026-01-15 10:00:00,25,Approved
+12,13,2,5,"AirPods Pro noise canceling is top notch",2026-01-15 10:00:00,19,Approved
+13,14,4,4,"USB hub works perfectly with my laptop",2026-01-15 10:00:00,8,Approved
+14,15,5,5,"MX Master 3 is best mouse I ever used!",2026-01-15 10:00:00,16,Approved
+15,1,6,4,"HP EliteBook battery life is very good",2026-01-15 10:00:00,10,Approved

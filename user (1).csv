@@ -1,0 +1,17 @@
+UserID,FirstName,LastName,Email,Password,PhoneNumber,Address,City,Country,PostalCode,DateOfBirth,RegistrationDate,Role,LastLogin,Status
+1,Fahad,Aslam,fahad@gmail.edu,admin78901,03001234567,"Township 1C2",Lahore,Pakistan,,,2026-01-15 10:00:00,Admin,,Active
+2,Ali,Khan,ali.customer@gmail.com,ali12345678,03219876543,"DHA Phase 5",Karachi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+3,Zain,Ahmed,zain.vendor@shop.pk,zain456789,03451122334,"Blue Area",Islamabad,Pakistan,,,2026-01-15 10:00:00,Vendor,,Active
+4,Sara,Malik,sara.malik@gmail.com,sara123456,03011234568,"Gulberg III",Lahore,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+5,Hamza,Butt,hamza.butt@gmail.com,hamza12345,03211234569,"Bahria Town",Rawalpindi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+6,Ayesha,Siddiqui,ayesha@gmail.com,ayesha1234,03031234570,"Clifton Block 4",Karachi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+7,Usman,Tariq,usman.vendor@shop.pk,usman12345,03451234571,"F-7 Markaz",Islamabad,Pakistan,,,2026-01-15 10:00:00,Vendor,,Active
+8,Hina,Qureshi,hina.q@gmail.com,hina123456,03211234572,"Model Town",Lahore,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+9,Bilal,Chaudhry,bilal.ch@gmail.com,bilal12345,03001234573,"Phase 6 DHA",Karachi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+10,Nadia,Shah,nadia.shah@gmail.com,nadia12345,03131234574,"G-11 Markaz",Islamabad,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+11,Omar,Farooq,omar.farooq@gmail.com,omar123456,03211234575,"Johar Town",Lahore,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+12,Sana,Iqbal,sana.iqbal@gmail.com,sana123456,03001234576,"North Nazimabad",Karachi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+13,Kamran,Javed,kamran.j@gmail.com,kamran1234,03451234577,"E-11 Sector",Islamabad,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+14,Faiza,Riaz,faiza.riaz@gmail.com,faiza12345,03211234578,"Wapda Town",Lahore,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+15,Tariq,Mehmood,tariq.m@gmail.com,tariq12345,03001234579,"PECHS Block 2",Karachi,Pakistan,,,2026-01-15 10:00:00,Customer,,Active
+16,Ahmed,Khan,ahmed@email.com,pass12345,03331234599,,Karachi,,,,2026-01-15 10:00:00,Customer,,Active

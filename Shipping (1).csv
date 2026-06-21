@@ -1,0 +1,13 @@
+ShippingID,OrderID,ShippingAddress,City,Country,PostalCode,ShippingMethod,CourierName,TrackingNumber,Weight,Status,ShippingDate,DeliveryDate
+1,1,"DHA Phase 5, Karachi",Karachi,Pakistan,75500,Express,TCS,TCS-001-112233,2.50,Delivered,,
+2,2,"Gulberg III, Lahore",Lahore,Pakistan,54000,Overnight,Leopard,LEO-002-223344,0.50,In Transit,,
+3,3,"Bahria Town, Rawalpindi",Rawalpindi,Pakistan,46000,Standard,TCS,TCS-003-334455,3.00,Out for Delivery,,
+4,5,"Model Town, Lahore",Lahore,Pakistan,54700,Express,Leopard,LEO-005-556677,0.40,Delivered,,
+5,6,"Phase 6 DHA, Karachi",Karachi,Pakistan,75600,Standard,M&P,MNP-006-667788,0.30,In Transit,,
+6,7,"G-11 Markaz, Islamabad",Islamabad,Pakistan,44000,Express,TCS,TCS-007-778899,1.20,Delivered,,
+7,9,"North Nazimabad, Karachi",Karachi,Pakistan,75250,Standard,Leopard,LEO-009-990011,0.30,In Transit,,
+8,11,"Wapda Town, Lahore",Lahore,Pakistan,54770,Standard,M&P,MNP-011-112244,0.50,Delivered,,
+9,12,"DHA Phase 5, Karachi",Karachi,Pakistan,75500,Express,TCS,TCS-012-223355,0.80,Delivered,,
+10,13,"Bahria Town, Rawalpindi",Rawalpindi,Pakistan,46000,Overnight,Leopard,LEO-013-334466,0.30,In Transit,,
+11,14,"Clifton Block 4, Karachi",Karachi,Pakistan,75600,Standard,TCS,TCS-014-445577,0.20,Delivered,,
+12,15,"Model Town, Lahore",Lahore,Pakistan,54700,Express,M&P,MNP-015-556688,0.40,Pending,,
